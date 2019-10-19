@@ -7,5 +7,5 @@ App was created to explain the fundamentals of javascript programming
 Planned features to include:
 
   - A time set(and probably a countdown timer).
-  - Replacing the `${x}` with a trashcan svg
+  - Replacing the `x` with a trashcan svg
   - *etc*.
